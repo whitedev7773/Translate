@@ -1,4 +1,4 @@
-##다니엘 파우터 - Bad Day (번역본 by. 화이트데브)  
+## 다니엘 파우터 - Bad Day (번역본 by. 화이트데브)  
   
 Where is the moment we needed the most?  
 웨어 이즈 더 모멭 위 니드 더 모스트  
@@ -150,7 +150,7 @@ You might not make it back and you know
   
 That you could be well, oh, that strong  
 댓츄 쿧비 웰 오 댓 스트롱  
- 그래도 넌 강하니까 잘 할 수 있을거야  
+그래도 넌 강하니까 잘 할 수 있을거야  
   
 And I'm not wrong  
 앤 아임 낫 렁  
