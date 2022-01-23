@@ -14,5 +14,5 @@ Youtube : https://www.youtube.com/c/whitedev
 아래 번역본을 다운로드하여 해석 동영상을 제작할 시 저(화이트데브)한테 알리고 동영상을 올린 페이지의 모든 곳(설명란, 댓글 등)에 번역본 출처([현재 페이지](https://github.com/whitedev7773/Translate) 또는 [유튜브 채널](https://www.youtube.com/c/whitedev)의 링크)를 남기고 사용해주세요
 
 ## 목차
- - [요네즈 켄시 - Yonezu Kenshi](https://github.com/whitedev7773/Translate/blob/main/)
- - [다니엘 파우터 - Daniel Powter]()
+ - [요네즈 켄시 - Yonezu Kenshi](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi)
+ - [다니엘 파우터 - Daniel Powter](https://github.com/whitedev7773/Translate/tree/main/Daniel%20Powter)
