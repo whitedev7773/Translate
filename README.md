@@ -14,5 +14,9 @@ Youtube : https://www.youtube.com/c/whitedev
 아래 번역본을 다운로드하여 해석 동영상을 제작할 시 저(화이트데브)한테 알리고 동영상을 올린 페이지의 모든 곳(설명란, 댓글 등)에 번역본 출처([현재 페이지](https://github.com/whitedev7773/Translate) 또는 [유튜브 채널](https://www.youtube.com/c/whitedev)의 링크)를 남기고 사용해주세요
 
 ## 목차
- - [요네즈 켄시 - Yonezu Kenshi](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi)
+ - [앨런 워커 - Alan Walker](https://github.com/whitedev7773/Translate/tree/main/Alan%20Walker)
  - [다니엘 파우터 - Daniel Powter](https://github.com/whitedev7773/Translate/tree/main/Daniel%20Powter)
+ - [킹 누 - King Gnu](https://github.com/whitedev7773/Translate/tree/main/King%20Gnu)
+ - [마사요시 오오이시 - Masayoshi Oishi](https://github.com/whitedev7773/Translate/tree/main/Masayoshi%20Oishi)
+ - [미세스 그린 애플 - Mrs. GREEN APPLE](https://github.com/whitedev7773/Translate/tree/main/Mrs.%20GREEN%20APPLE)
+ - [요네즈 켄시 - Yonezu Kenshi](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi)

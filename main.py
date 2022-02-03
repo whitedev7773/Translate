@@ -19,4 +19,5 @@ def start(url):
 
     writeText(url=url, content="".join(result))
 
-start(input("주소 입력 : "))
+while True:
+    start(input("주소 입력 : "))
