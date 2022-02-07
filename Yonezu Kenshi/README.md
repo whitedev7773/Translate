@@ -8,6 +8,7 @@
  - [Lemon - 레몬](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Lemon.md)
  - [Pale Blue - 페일 블루](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Pale%20Blue.md)
  - [Peace Sign - 피스 사인](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Peace%20Sign.md)
+ - [POP SONG - 팝송](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Pop%20Song.md)
  - [Shinigami - 사신](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Shinigami.md)
  - [Shunrai - 춘뢰](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Shunrai.md)
  - [Umi No Yuurei - 바다의 유령](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Umi%20No%20Yuurei.md)
