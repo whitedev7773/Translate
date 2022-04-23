@@ -3,7 +3,7 @@
 Youtube : https://www.youtube.com/c/whitedev
 
 ## 주의 및 필독 사항
-번역본에 대한 **저작권은 화이트데브**에게 있습니다.
+한국어 번역에 대한 **저작권은 화이트데브**에게 있습니다.
 
 <<**개인의 수익 또는 상업적인 목적의 사용은 절대 허용하지 않습니다.**>>  
  *ex. 번역본 판매, 2차 배포, 수익을 창출하는 동영상에 사용*
@@ -20,3 +20,6 @@ Youtube : https://www.youtube.com/c/whitedev
  - [마사요시 오오이시 - Masayoshi Oishi](https://github.com/whitedev7773/Translate/tree/main/Masayoshi%20Oishi)
  - [미세스 그린 애플 - Mrs. GREEN APPLE](https://github.com/whitedev7773/Translate/tree/main/Mrs.%20GREEN%20APPLE)
  - [요네즈 켄시 - Yonezu Kenshi](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi)
+
+
+한국어 번역은 구글 및 네이버 파파고 번역기, 외부 일본어 사전을 이용하여 번역을 진행했습니다.
