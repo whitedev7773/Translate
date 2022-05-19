@@ -7,6 +7,7 @@
  - [Haiiro To Ao - 쟂빛과 푸름](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Haiiro%20To%20Ao.md)
  - [Kanden - 감전](https://github.com/whitedev7773/Translate/blob/main/Yonezu%20Kenshi/Kanden.md)
  - [Lemon - 레몬](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Lemon.md)
+ - [M87](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/M87.md)
  - [Pale Blue - 페일 블루](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Pale%20Blue.md)
  - [Peace Sign - 피스 사인](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Peace%20Sign.md)
  - [POP SONG - 팝송](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Pop%20Song.md)
