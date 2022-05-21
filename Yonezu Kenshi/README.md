@@ -4,6 +4,7 @@
  - [Campanella - 캄파넬라](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Campanella.md)
  - [Canary - 카나리아](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Canary.md)
  - [Daydream - 백일몽](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Daydream.md)
+ - [ETA](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/ETA.md)
  - [Haiiro To Ao - 쟂빛과 푸름](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Haiiro%20To%20Ao.md)
  - [Kanden - 감전](https://github.com/whitedev7773/Translate/blob/main/Yonezu%20Kenshi/Kanden.md)
  - [Lemon - 레몬](https://github.com/whitedev7773/Translate/tree/main/Yonezu%20Kenshi/Lemon.md)
